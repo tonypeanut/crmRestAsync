@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Antonio Valdez Aguayo",
+      "email": "tonypeanut93@gmail.com",
+      "telefono": "3234",
+      "empresa": "abc",
+      "id": "9019"
+    },
+    {
+      "nombre": "Javier Osuna",
+      "email": "javier@correo.com",
+      "telefono": "1234567",
+      "empresa": "Rice exFundiciones",
+      "id": "6e3c"
+    },
+    {
+      "id": "286e",
+      "nombre": "Karla",
+      "email": "karla@ricepropulsion.com",
+      "telefono": "1234",
+      "empresa": "Casa"
+    }
+  ]
+}
