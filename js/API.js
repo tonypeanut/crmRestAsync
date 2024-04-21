@@ -1,4 +1,4 @@
-const url = 'http://localhost:4000/clientes';
+const url = 'https://tonypeanut-crmrestasync.netlify.app';
 
 // Cuando se crea un nuevo cliente
 export const nuevoCliente = async cliente => {
